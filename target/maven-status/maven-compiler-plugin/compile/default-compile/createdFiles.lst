@@ -21,6 +21,7 @@ org\apache\beam\examples\subprocess\kernel\SubProcessKernel.class
 org\apache\beam\examples\complete\game\GameStats$1.class
 org\apache\beam\examples\complete\game\utils\WriteToBigQuery$FieldInfo.class
 org\apache\beam\examples\DebuggingWordCount.class
+org\apache\beam\examples\MinimalWordCountVallapurapu.class
 org\apache\beam\examples\complete\game\UserScore.class
 org\apache\beam\examples\common\ExampleUtils.class
 org\apache\beam\examples\complete\game\StatefulTeamScore.class
